@@ -1,0 +1,39 @@
+body {
+	font-family: "Comic Sans MS", sans-serif, cursive;
+    font-size: 20px;
+    background-color: lightblue;
+}
+
+div {
+	background-color: rgb(97, 143, 158);
+}
+
+b {
+    color: blueviolet;
+}
+
+i {
+    color: chartreuse;
+}
+
+u {
+    color: red;
+}
+
+s {
+    color: chocolate;
+}
+
+sub {
+    color: darkgoldenrod;
+}
+
+sup {
+    color: deeppink;
+}
+
+div {
+    border: solid 1px;
+    padding: 2.5px;
+    margin: 10px;
+}
